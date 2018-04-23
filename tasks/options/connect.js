@@ -10,8 +10,8 @@ var config = {
    */
     uaa: {
 
-        clientId: '3',
-        clientSecret: 'YaDVPZjP0RgwdDGV4NKVhboZilRDdTxC0f9frbNL',
+        clientId: '4',
+        clientSecret: 'sHJVBc4oKzzXkXok3fRp0lDdk3uaDMjhE1PhgK6e',
         serverUrl: 'http://uaasdm001-arj3gwk9.neuseer.cn',
         redirect_uri: 'http://uaasdm001-arj3gwk9.neuseer.cn/callback',
         defaultClientRoute: '/about'
