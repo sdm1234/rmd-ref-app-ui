@@ -15,7 +15,6 @@ var config = {
         serverUrl: 'http://uaasdm001-arj3gwk9.neuseer.cn',
         redirect_uri: 'http://uaasdm001-arj3gwk9.neuseer.cn/callback',
         defaultClientRoute: '/about'
-
     },
   /**
    * --------- ADD YOUR SECURE ROUTES HERE ------------
